@@ -10,7 +10,9 @@
 
 # production
 /build
-
+/public/models
+/public/textures
+/public/portfolio
 # misc
 .DS_Store
 .env.local
